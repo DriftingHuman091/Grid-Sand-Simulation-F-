@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpyK2WBUECw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sisbd\\Documents\\F#\\FirstGameTerm\\FirstGameTerm.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sisbd\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
